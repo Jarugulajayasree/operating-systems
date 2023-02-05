@@ -58,3 +58,25 @@ int main()
     recurse1();
     return 0;
 }
+
+OUTPUT:
+Enter the index block: 5
+Enter the number of blocks and the number of files needed for the index 5 on the disk: 7
+1
+3
+5
+7
+2
+4
+8
+Allocated
+File Indexed
+5 ------> 1 : 1
+5 ------> 3 : 1
+5 ------> 5 : 1
+5 ------> 7 : 1
+5 ------> 2 : 1
+5 ------> 4 : 1
+5 ------> 8 : 1
+Do you want to enter more files?
+Enter 1 for Yes, Enter 0 for No: NO
