@@ -75,3 +75,13 @@ int main(){
  copyfun();
  lsandgrep();
 }
+
+
+OUTPUT:
+create 2 files
+file1: with data
+file2: without data for copying
+enter a file name:JAYA
+Enter contents to store in file :
+2
+File created and saved successfully. ??
