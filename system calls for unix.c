@@ -17,3 +17,6 @@ int fd = open("foo.txt", O_RDONLY | O_CREAT);
 
     return 0; 
 }
+
+OUTPUT:
+fd = 3
