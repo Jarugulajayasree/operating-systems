@@ -68,3 +68,25 @@ printf("\n\nTotal Page Faults = %d", faults);
     
     return 0;
 }
+OUTPUT:
+Enter number of frames: 6
+Enter number of pages: 8
+Enter reference string: 12
+3
+4
+6
+8
+9
+10
+11
+
+12      -1      -1      -1      -1      -1
+12      3       -1      -1      -1      -1
+12      3       4       -1      -1      -1
+12      3       4       6       -1      -1
+12      3       4       6       8       -1
+12      3       4       6       8       9
+10      3       4       6       8       9
+10      11      4       6       8       9
+
+Total Page Faults = 8
