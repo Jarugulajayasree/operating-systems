@@ -25,3 +25,10 @@ int main()
   
 return 0;
 }
+
+
+OUTPUT:
+Enter number of elements:3
+Entered number of elements: 3
+Memory successfully allocated using malloc.
+The elements of the array are: 1, 2, 3,
