@@ -60,3 +60,21 @@ printf("\n Average Turn Around Time: \t%f", avg_wt);
 printf("\n Average Waiting Time: \t%f", avg_tat);
 getch();
 }
+
+OUTPUT:
+Total number of process in the system: 3
+
+ Enter the Arrival and Burst time of the Process[1]
+ Arrival time is:       12:30
+
+Burst time is:
+ Enter the Arrival and Burst time of the Process[2]
+ Arrival time is:
+Burst time is:
+ Enter the Arrival and Burst time of the Process[3]
+ Arrival time is:
+Burst time is:  Enter the Time Quantum for the process:
+ Process No              Burst Time              TAT             Waiting Time
+
+
+
