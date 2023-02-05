@@ -32,3 +32,9 @@ int main(int argc, char **argv) {
     free(filename);
     return 0;
 }
+
+
+OUTPUT:
+/usr/bin/adb is not readable
+/usr/bin/adb is not Writeable
+/usr/bin/adb is not executable
