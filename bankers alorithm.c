@@ -68,3 +68,29 @@ int main() {
  }
 return 0;
 }
+OUTPUT:
+Enter the number of process and resources 4
+1
+enter allocation of resource of all process 4x1 matrix
+2
+3
+4
+5
+enter the max resource process required 4x1 matrix
+6
+7
+5
+4
+enter the  available resource 7
+
+ need resources matrix are
+4
+4
+1
+-1
+
+ available resource after completion
+21
+ safe sequence are
+p0      p1      p2      p3
+
