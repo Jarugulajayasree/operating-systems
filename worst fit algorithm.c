@@ -56,3 +56,11 @@ int main()
  
     return 0;
 }
+
+
+OUTPUT:
+Process No.     Process Size    Block no.
+1                        40                     4
+2                        10                     1
+3                        30                     2
+4                        60                     Not Allocated
