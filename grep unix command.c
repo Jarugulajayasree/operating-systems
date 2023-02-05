@@ -16,3 +16,10 @@ int main() {
     fclose(fp);
     return 1;
 }
+
+
+OUTPUT:
+Enter file name : JAYA
+Enter the pattern: JAYA2003
+files
+files
