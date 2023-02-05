@@ -40,3 +40,27 @@ int main()
  
     return 0;
 }
+
+
+OUTPUT:
+Enter 2 Employee Details
+
+Employee 1:-
+Name: JAYASREE
+Id: 8309911059
+Salary: 50000
+
+Employee 2:-
+Name: POOJITHA
+Id: 7893221211
+Salary: 60000
+
+-------------- All Employees Details ---------------
+Name    : JAYASREE
+Id      : -280023533
+Salary  : 50000.00
+
+Name    : POOJITHA
+Id      : -696713381
+Salary  : 60000.00
+
