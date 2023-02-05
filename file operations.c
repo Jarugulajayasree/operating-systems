@@ -24,3 +24,8 @@ int main( )
     }
     return 0;       
 }
+
+OUTPUT:
+The file is now opened.
+Data successfully written in file GfgTest.c
+The file is now closed.
