@@ -55,3 +55,10 @@ int main()
  
     return 0 ;
 }
+OUTPUT:
+Process No.     Process Size    Block no.
+1                        40                     2
+2                        10                     3
+3                        30                     5
+4                        60                     1
+
