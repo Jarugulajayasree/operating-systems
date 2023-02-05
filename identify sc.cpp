@@ -31,3 +31,10 @@ int main()
 	fclose(fptr2);
 	return 0;
 }
+
+
+OUTPUT:
+Enter the filename to open for reading
+POOJI
+Cannot open file POOJI
+
