@@ -16,3 +16,7 @@ int main()
 	}
 	return 0;
 }
+
+
+OUTPUT:
+fd = 3
