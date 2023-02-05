@@ -100,3 +100,17 @@ default:exit(0);
 }
 }
 }
+
+
+OUTPUT:
+1. Create Directory     2. Create File  3. Delete File
+4. Search File          5. Display      6. Exit Enter your choice -- 1
+
+Enter name of directory -- JAYASREE
+Directory created
+
+1. Create Directory     2. Create File  3. Delete File
+4. Search File          5. Display      6. Exit Enter your choice -- 3
+
+Enter name of the directory -- POOJITHA
+Directory POOJITHA not found
