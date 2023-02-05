@@ -29,3 +29,17 @@ printf("\n");
 }
 printf("Page Fault Is %d",count);
 }
+
+
+OUTPUT:
+ ENTER THE NUMBER OF PAGES:
+2
+
+ ENTER THE PAGE NUMBER:
+5
+
+ ENTER THE NUMBER OF FRAMES :7
+        ref string       page frames
+0               0       -1      -1      -1      -1      -1      -1
+4223016         0       4223016 -1      -1      -1      -1      -1
+Page Fault Is 2
