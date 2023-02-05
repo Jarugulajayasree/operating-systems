@@ -18,3 +18,9 @@ int main()
     printf("After Thread\n");
 exit(0);
 }
+
+
+OUTPUT:
+Before Thread
+HEMA IS NAUGHTY GIRL
+After Thread
