@@ -20,3 +20,14 @@ int main()
     printf("Total head moment is %d",TotalHeadMoment);
     return 0;   
 }
+OUTPUT:
+Enter the number of Requests
+4
+Enter the Requests sequence
+5
+7
+6
+9
+Enter initial head position
+12
+Total head moment is 13
