@@ -54,3 +54,13 @@ int signal(int s)
     x--;
     mutex=signal(mutex);
 }
+
+OUTPUT:
+1.Producer
+2.Consumer
+3.Exit
+Enter your choice:1
+
+Producer produces the item 1
+Enter your choice:3
+
