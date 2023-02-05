@@ -44,3 +44,25 @@ int main(){
     getch();
     return 0;
 }
+
+
+OUTPUT:
+Enter the number of blocks already allocated: 4
+Enter the blocks already allocated: 3
+5
+7
+9
+Enter the index of the starting block and its length: 1
+6
+1------>1
+2------>1
+The block 3 is already allocated
+4------>1
+The block 5 is already allocated
+6------>1
+The block 7 is already allocated
+8------>1
+The block 9 is already allocated
+10------>1
+Do you want to enter more files?
+Enter 1 for Yes, Enter 0 for No: NO
