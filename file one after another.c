@@ -40,3 +40,15 @@ recurse(files);
 getch();
 return 0;
 }
+
+
+OUTPUT:
+Files Allocated are :
+Enter the starting block and the length of the files: 2
+3
+2       1
+3       1
+4       1
+The file is allocated to the disk
+Do you want to enter more files?
+Press 1 for YES, 0 for NO: NO
