@@ -28,3 +28,13 @@ int main(void)
     pthread_join(tid[1], NULL);
 return 0;
 }
+
+OUTPUT:
+ Job 1 has started
+
+ Job 2 has started
+
+ Job 2 has finished
+
+ Job 2 has finished
+
