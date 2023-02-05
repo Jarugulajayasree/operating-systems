@@ -81,3 +81,29 @@ int main()
     optimalPage(ref_str, refStrLen, frame_items, max_frames);
     return 0;
 }
+
+OUTPUT:
+Stream Frame1 Frame2 Frame3
+7               7               -               -
+0               7               0               -
+1               7               0               1
+2               2               0               1
+0               2               0               1
+3               2               0               3
+0               2               0               3
+4               2               4               3
+2               2               4               3
+3               2               4               3
+0               2               0               3
+3               2               0               3
+2               2               0               3
+1               2               0               1
+2               2               0               1
+0               2               0               1
+1               2               0               1
+7               7               0               1
+0               7               0               1
+1               7               0               1
+
+Hits: 11
+Misses: 9
